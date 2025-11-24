@@ -39,8 +39,6 @@ main() {
   generate_passphrase
 }
 
-#---------- Helper functions --------------------------------------
-
 # Usage: generate_passphrase
 # Generates a passphrase with ${num_words} words from ${word_list}
 generate_passphrase() {
